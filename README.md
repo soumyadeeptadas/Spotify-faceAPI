@@ -17,8 +17,8 @@ Follow these steps to get started!
     API_KEY=<azure_key>
     ENDPOINT=<azure_endpoint>
  ```
-5. Open up two terminal window, in one navigate to project folder and run ``npm start``.
-6. In the other terminal navigate to `MERn` folder and run ``npm start``.
+5. Open up two terminal window, in one terminal, navigate to project folder and run ``npm start``.
+6. In the other terminal navigate to `MERN` folder and run ``npm start``.
 7. Test out your web app with different image urls! (backend on port 5000 and webapp on port 3000)
 
 ## Features
