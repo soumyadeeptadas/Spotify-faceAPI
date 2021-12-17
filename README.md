@@ -5,6 +5,11 @@ Sometime people just prefer what's treated to them based on how they are feeling
 
 
 
+
+![smiling analysis pic](https://github.com/soumyadeeptadas/Spotify-faceAPI/blob/master/Screenshots/Screenshot%20(961).png)
+
+![smiling analysis pic](https://github.com/soumyadeeptadas/Spotify-faceAPI/blob/master/Screenshots/Screenshot%20(962).png)
+
 ## Getting Started
 Follow these steps to get started!
 1. Clone this repository to download the code
