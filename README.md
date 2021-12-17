@@ -28,7 +28,7 @@ Type in the url of your image and click the "analyze image" button to display th
 This page will display the current playlists in your MongoDB database. To edit or delete entries, simply click the link to the right of the playlist and change the values. The code for this component can be found under [**playlist-list.component.js**]
 
 ### Add Playlists
-To add your own playlists, enter the Add Playlists page. Here, a user can input the link to a playlist, their happiness index (decimal value from 0-1), and their age. These fields will then be added as an entry into the MongoDB database. The code for this component can be found under [**create-playlist.js**]
+To add your own playlists, enter the Add Playlists page. Here, a user can input the link to a playlist, their happiness index, and their age. These fields will then be added as an entry into the MongoDB database. The code for this component can be found under [**create-playlist.js**]
 
 ### Menu
 The menu is home to the three main pages: Analyze your Image, Playlists, and Add Playlists. The code for this component can be found under [**navbar.component.js**]
