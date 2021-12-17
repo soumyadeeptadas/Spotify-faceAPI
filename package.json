@@ -1,0 +1,27 @@
+{
+  "name": "SpotifyAI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "start": "nodemon MERN/backend/server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidenszeto/Spotif.ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidenszeto/Spotif.ai/issues"
+  },
+  "homepage": "https://github.com/aidenszeto/Spotif.ai#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+      "node": "10.16.0"
+  }
+}
