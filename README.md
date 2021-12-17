@@ -3,22 +3,23 @@ Sometime people just prefer what's treated to them based on how they are feeling
 
 ## Demo Link: [click here](https://drive.google.com/file/d/1-lyPRiCSMASmjIpHJSEWovlr73SOQelA/view?usp=sharing)
 
-## Prerequisites
-Please run `npm install` prior to running
+
 
 ## Getting Started
 Follow these steps to get started!
 1. Clone this repository to download the code
-2. Retrieve free API key and corresponding endpoint for [Microsoft Face](https://azure.microsoft.com/en-us/services/cognitive-services/face/) from Azure Cognitive Services
-3. Set up [MongoDB](https://www.mongodb.com/) database and retrieve custom uri by connecting by network
-4. Add API key, MongoDB URI, and custom endpoint (if different from code) to .env file as follows
+2. run `npm install` in `project folder`, `MERN` folder and `backend` folder inside MERN folder.
+3. Retrieve free API key and corresponding endpoint for [Microsoft Face](https://azure.microsoft.com/en-us/services/cognitive-services/face/) from Azure Cognitive Services
+4. Set up [MongoDB](https://www.mongodb.com/) database and retrieve custom uri by connecting by network
+5. Add API key, MongoDB URI, and custom endpoint (if different from code) to .env file as follows
  ```
     ATLAS_URI=<custom_uri>
     API_KEY=<azure_key>
     ENDPOINT=<azure_endpoint>
  ```
-5. Once your database is connected, run ``npm start``
-6. Test out your web app with different image urls! (backend on port 5000 and webapp on port 3000)
+5. Open up two terminal window, in one navigate to project folder and run ``npm start``.
+6. In the other terminal navigate to `MERn` folder and run ``npm start``.
+7. Test out your web app with different image urls! (backend on port 5000 and webapp on port 3000)
 
 ## Features
 ### Analyze your Image
