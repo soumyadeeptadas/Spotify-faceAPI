@@ -1,7 +1,7 @@
 # SpotifyAI
 Sometime people just prefer what's treated to them based on how they are feeling, instead putting in the effort and finding it themselves. Same applies with people's song or music experience. Sometimes users are too lazy, too busy or too clouded and dont even know what they'd prefer listening, which might further irritate them and the work they're doing. To solve this issue and enhance the ever evolving lifestyle. The proposed application, would just require the user to click a selfie or upload a picture of themselves, based on which the application would detect their mood and emotion, and further recommend the best spotify playlists based on how they're feeling. And not just what's told, this feature could also add a fun and exciting timepass and game for users to explore as they can experiment with diff selfies and pull up different experiences from it.
 
-## Demo Link: 
+## Demo Link: [click here](https://drive.google.com/file/d/1-lyPRiCSMASmjIpHJSEWovlr73SOQelA/view?usp=sharing)
 
 ## Prerequisites
 Please run `npm install` prior to running
