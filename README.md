@@ -40,7 +40,7 @@ To add your own playlists, enter the Add Playlists page. Here, a user can input 
 The menu is home to the three main pages: Analyze your Image, Playlists, and Add Playlists. The code for this component can be found under [**navbar.component.js**]
 
 ## How it Works
-Spotif.ai was created using the MERN stack (MongoDB, Express, React, Node.js). After connections are made to both the database and localhost, [Microsoft Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) is used to access the emotional indices for each face in an uploaded image. The Face API detects the relative positions of facial features such as lips and eys to calculate a happiness level and the age of the face. 
+SpotifyAI was created using the MERN stack (MongoDB, Express, React, Node.js). After connections are made to both the database and localhost, [Microsoft Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) is used to access the emotional indices for each face in an uploaded image. The Face API detects the relative positions of facial features such as lips and eys to calculate a happiness level and the age of the face. 
 
 
 
